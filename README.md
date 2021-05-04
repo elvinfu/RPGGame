@@ -1,4 +1,4 @@
-# RPPGame
+# RPGGame
 
 Complete pixel RPG with tilemap generator, battling system, and level system by Elvin. Created with Java using the Eclipse IDE.
 
