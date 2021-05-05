@@ -15,4 +15,4 @@ Z to select option during a battle.
 
 Z to go to next dialogue.
 
-Z or space to attack during the attack portion.
+Z or Space to attack during the attack portion.
