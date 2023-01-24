@@ -1,6 +1,6 @@
 # eclipse-rpg-game
 
-Tile-based RPG game with turn-based fighting; created 100% using the Eclipse IDE and Java.
+Complete pixel RPG with tilemap generator, battling system, and level system. Created using the Eclipse IDE and Java.
 
 --
 
